@@ -28,22 +28,6 @@ body {
   padding-bottom: 0.3rem;
 }
 
-/* Borde superior decorativo para las tarjetas de versiones */
-.border-top-spidey {
-  border-top: 4px solid var(--spidey-blue) !important;
-  transition: transform 0.2s ease-in-out;
-}
-
-/* Efecto hover ligero en las tarjetas de versiones */
-.border-top-spidey:hover {
-  transform: translateY(-5px);
-}
-
-/* Tipografía de la marca */
-.tracking-wide {
-  letter-spacing: 1.5px;
-}
-
 /* From Uiverse.io by Artahs */ 
 ul {
   list-style: none;
